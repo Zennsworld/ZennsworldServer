@@ -1,0 +1,228 @@
+[10:21:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:21:51] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[10:21:51] [Worker-Main-8/INFO]: Loaded 7 recipes
+[10:21:52] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[10:21:52] [Server thread/INFO]: Loading properties
+[10:21:52] [Server thread/INFO]: This server is running Paper version git-Paper-778 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[10:21:52] [Server thread/INFO]: Debug logging is disabled
+[10:21:52] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:21:52] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:21:52] [Server thread/INFO]: Default game type: SURVIVAL
+[10:21:52] [Server thread/INFO]: Generating keypair
+[10:21:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:21:52] [Server thread/INFO]: Using default channel type
+[10:21:53] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.48
+[10:21:53] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[10:21:53] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
+[10:21:54] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4bb9489]
+[10:21:54] [Server thread/INFO]: [BentoBox] Loading BentoBox v1.16.2
+[10:21:54] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0-dev+167-9bd35a2
+[10:21:54] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.19.0-dev+167-9bd35a2
+[10:21:54] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[10:21:54] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.5+3827266
+[10:21:54] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v19.5
+[10:21:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:21:54] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.48
+[10:21:54] [Server thread/INFO]:         __    
+[10:21:54] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.48
+[10:21:54] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[10:21:54] [Server thread/INFO]: 
+[10:21:54] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:21:54] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[10:21:54] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:21:54] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:21:54] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 927ms)
+[10:21:54] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[10:21:54] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.0-dev+167-9bd35a2 which is not a depend, softdepend or loadbefore of this plugin.
+[10:21:54] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[10:21:54] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[10:21:55] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[10:21:55] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[10:21:55] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
+[10:21:55] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[10:21:55] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[10:21:55] [Server thread/INFO]: [BentoBox] Enabling BentoBox v1.16.2
+[10:21:55] [Server thread/INFO]: [BentoBox] Loading Settings from config.yml...
+[10:21:56] [Server thread/INFO]: [BentoBox] Hooking with Vault...
+[10:21:56] [Server thread/INFO]: [BentoBox] Loading addons...
+[10:21:56] [Server thread/INFO]: [BentoBox] Loaded 8 addons.
+[10:21:56] [Server thread/INFO]: Preparing level "world"
+[10:21:56] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[10:21:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:21:57] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:57] [Server thread/INFO]: Time elapsed: 210 ms
+[10:21:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:21:57] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:57] [Server thread/INFO]: Time elapsed: 48 ms
+[10:21:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:21:57] [Server thread/INFO]: Time elapsed: 44 ms
+[10:21:57] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0-dev+167-9bd35a2
+[10:21:57] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:21:57] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:21:58] [Server thread/INFO]: [Essentials] Loaded 25599 items from items.json.
+[10:21:58] [Server thread/INFO]: [Essentials] Using locale en_US
+[10:21:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:21:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:21:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[10:21:58] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[10:21:58] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.19.0-dev+167-9bd35a2
+[10:21:58] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[10:21:58] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[10:21:58] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[10:21:58] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[10:21:58] [Server thread/INFO]: Could not set generator for world 'IridiumSkyblock_nether': Plugin 'IridiumSkyblock' does not exist
+[10:21:58] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: IridiumSkyblock_nether
+[10:21:58] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[10:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:bskyblock_world_nether
+[10:21:58] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:58] [Server thread/INFO]: Time elapsed: 250 ms
+[10:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:bskyblock_world_the_end
+[10:21:58] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:59] [Server thread/INFO]: Time elapsed: 352 ms
+[10:21:59] [Server thread/INFO]: Preparing start region for dimension minecraft:bskyblock_world
+[10:21:59] [Server thread/INFO]: Preparing spawn area: 0%
+[10:21:59] [Server thread/INFO]: Time elapsed: 35 ms
+[10:21:59] [Server thread/INFO]: Could not set generator for world 'IridiumSkyblock': Plugin 'IridiumSkyblock' does not exist
+[10:21:59] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: IridiumSkyblock
+[10:21:59] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[10:21:59] [Server thread/INFO]: Could not set generator for world 'IridiumSkyblock_the_end': Plugin 'IridiumSkyblock' does not exist
+[10:21:59] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: IridiumSkyblock_the_end
+[10:21:59] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[10:21:59] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[10:21:59] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[10:21:59] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.5+3827266
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_nether) TNT ignition is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_nether) Lighters are PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_nether) Lava fire is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_nether) Fire spread is UNRESTRICTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'bskyblock_world_nether'
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_the_end) TNT ignition is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_the_end) Lighters are PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_the_end) Lava fire is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world_the_end) Fire spread is UNRESTRICTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'bskyblock_world_the_end'
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world) TNT ignition is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world) Lighters are PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world) Lava fire is PERMITTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] (bskyblock_world) Fire spread is UNRESTRICTED.
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'bskyblock_world'
+[10:21:59] [Server thread/INFO]: [WorldGuard] Loading region data...
+[10:21:59] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v19.5
+[10:21:59] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[10:21:59] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[10:21:59] [Server thread/INFO]: --------------------
+[10:21:59] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[10:21:59] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[10:21:59] [Server thread/INFO]: --------------------
+[10:22:00] [Server thread/INFO]: Running delayed init tasks
+[10:22:00] [Craft Scheduler Thread - 4/INFO]: [Essentials] Fetching version information...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling game mode addons...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling BSkyBlock (1.14.4)...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling other addons...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling Level (2.6.3)...
+[10:22:00] [Server thread/WARN]: [BentoBox] [Level] Level Addon: No such world in blockconfig.yml : caveblock-world
+[10:22:00] [Server thread/WARN]: [BentoBox] [Level] Level Addon: No such world in blockconfig.yml : acidisland_world
+[10:22:00] [Server thread/INFO]: [BentoBox] [Level] Level hooking into BSkyBlock
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling Biomes (1.14.0)...
+[10:22:00] [Server thread/INFO]: [BentoBox] Loading biomes...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling Challenges (0.8.4)...
+[10:22:00] [Server thread/INFO]: [BentoBox] [Challenges] Loading challenges...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling ControlPanel (1.13.0)...
+[10:22:00] [Server thread/INFO]: [BentoBox] Loading control panels...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling DimensionalTrees (1.6.0)...
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling Limits (1.15.5)...
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Entity limits:
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Limit ENDERMAN to 5
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Limit CHICKEN to 10
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Entity group limits:
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Limits will apply to BSkyBlock
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Loading default limits
+[10:22:00] [Server thread/INFO]: [BentoBox] [Limits] Limit HOPPER to 10
+[10:22:00] [Server thread/INFO]: [BentoBox] Enabling Warps (1.10.2)...
+[10:22:00] [Server thread/INFO]: [BentoBox] [Warps] Loading warps...
+[10:22:00] [Server thread/INFO]: [BentoBox] Addons successfully enabled.
+[10:22:00] [Server thread/INFO]: [BentoBox] Hooking with Multiverse-Core...
+[10:22:00] [Server thread/INFO]: Multiverse already knows about 'bskyblock_world'!
+[10:22:00] [Server thread/INFO]: Success! Property generator was set to BentoBox
+[10:22:00] [Server thread/INFO]: Multiverse already knows about 'bskyblock_world_nether'!
+[10:22:00] [Server thread/INFO]: Success! Property generator was set to BentoBox
+[10:22:00] [Server thread/INFO]: Multiverse already knows about 'bskyblock_world_the_end'!
+[10:22:00] [Server thread/INFO]: Success! Property generator was set to BentoBox
+[10:22:00] [Server thread/INFO]: [BentoBox] Hooking with WorldEdit...
+[10:22:00] [Server thread/INFO]: 
+  ____             _        ____
+ |  _ \           | |      |  _ \             by tastybento and Poslovitch
+ | |_) | ___ _ __ | |_ ___ | |_) | _____  __  2017 - 2020
+ |  _ < / _ \ '_ \| __/ _ \|  _ < / _ \ \/ /
+ | |_) |  __/ | | | || (_) | |_) | (_) >  <   v1.16.2
+ |____/ \___|_| |_|\__\___/|____/ \___/_/\_\  Loaded in 1261ms.
+
+[10:22:00] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[10:22:00] [Server thread/INFO]: [BentoBox] Added world BSkyBlock (NORMAL)
+[10:22:00] [Server thread/INFO]: Done (8.100s)! For help, type "help"
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_211
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[10:22:00] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[10:22:00] [Server thread/INFO]: Timings Reset
+[10:22:00] [Craft Scheduler Thread - 3/INFO]: [Vault] Checking for Updates ... 
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded Blueprint Bundle 'classic-island' for BSkyBlock.
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded Blueprint Bundle 'default' for BSkyBlock.
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded Blueprint Bundle 'double_island' for BSkyBlock.
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded Blueprint Bundle 'harder_island' for BSkyBlock.
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded blueprint 'classic-lshape' for BSkyBlock
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded blueprint 'double' for BSkyBlock
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded blueprint 'end-island' for BSkyBlock
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded blueprint 'harder' for BSkyBlock
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded blueprint 'island' for BSkyBlock
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] Loaded blueprint 'nether-island' for BSkyBlock
+[10:22:00] [Server thread/INFO]: [BentoBox] All blueprints loaded.
+[10:22:00] [Craft Scheduler Thread - 5/INFO]: [BentoBox] [Level] Generating Top Ten Tables
+[10:22:00] [Craft Scheduler Thread - 1/INFO]: [BentoBox] Downloading data from GitHub...
+[10:22:00] [Craft Scheduler Thread - 1/INFO]: [BentoBox] Updating the Catalog...
+[10:22:01] [Craft Scheduler Thread - 3/INFO]: [Vault] No new version available
+[10:22:01] [Craft Scheduler Thread - 1/INFO]: [BentoBox] Updating Contributors information...
+[10:22:01] [Craft Scheduler Thread - 1/INFO]: [BentoBox] Gathering contribution data for: BentoBoxWorld/BentoBox, BentoBoxWorld/BSkyBlock, BentoBoxWorld/Biomes, BentoBoxWorld/Challenges, BentoBoxWorld/ControlPanel
+[10:22:03] [Craft Scheduler Thread - 1/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[10:22:29] [Craft Scheduler Thread - 18/INFO]: [BentoBox] Downloading data from GitHub...
+[10:22:30] [Craft Scheduler Thread - 18/INFO]: [BentoBox] Successfully downloaded data from GitHub.
+[10:22:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@1be424ad[id=<null>,name=Zennsworld,properties={},legacy=false] (/127.0.0.1:52440) lost connection: Disconnected
+[10:22:46] [User Authenticator #1/INFO]: UUID of player Zennsworld is be4a9d11-3de7-4789-aaa1-143ab73bdc89
+[10:22:47] [Server thread/INFO]: Zennsworld joined the game
+[10:22:47] [Server thread/INFO]: Zennsworld[/127.0.0.1:52442] logged in with entity id 30 at ([world]63.932637022486915, 73.85906067399353, -110.05358533172098)
+[10:23:01] [Server thread/INFO]: Zennsworld issued server command: /bsbadmin delete Zennsworld
+[10:23:03] [Server thread/INFO]: Zennsworld issued server command: /bsbadmin delete Zennsworld
+[10:23:07] [Server thread/INFO]: Zennsworld lost connection: Disconnected
+[10:23:07] [Server thread/INFO]: Zennsworld left the game
+[10:31:34] [User Authenticator #2/INFO]: UUID of player Zennsworld is be4a9d11-3de7-4789-aaa1-143ab73bdc89
+[10:31:34] [Server thread/INFO]: Zennsworld joined the game
+[10:31:34] [Server thread/INFO]: Zennsworld[/127.0.0.1:52489] logged in with entity id 35 at ([world]63.932637022486915, 73.85906067399353, -110.05358533172098)
+[10:32:36] [Server thread/INFO]: Zennsworld issued server command: /gamemode creative
+[10:36:30] [Server thread/INFO]: Zennsworld lost connection: Disconnected
+[10:36:30] [Server thread/INFO]: Zennsworld left the game

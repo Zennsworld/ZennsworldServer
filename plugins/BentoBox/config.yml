@@ -57,7 +57,7 @@ general:
     # How often the data will be saved to file in mins. Default is 5 minutes.
     # This helps prevent issues if the server crashes.
     # Data is also saved at important points in the game.
-    backup-period: 5
+    backup-period: 30
     # How many players will be saved in one tick. Default is 200
     # Reduce if you experience lag while saving.
     # Do not set this too low or data might get lost!
@@ -208,4 +208,4 @@ web:
     # However, as the GitHub API data does not get updated instantly, this value cannot be set to less than 60 minutes.
     # Setting this to 0 will make BentoBox download data only at startup.
     # Added since 1.5.0.
-    connection-interval: 120
+    connection-interval: 0
