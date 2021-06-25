@@ -1,0 +1,37 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1624590807743
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1624593009957
+  login: 1624590411406
+money: '-20'
+last-account-name: Zennsworld
+logoutlocation:
+  world: 2d2b6e5e-bde8-44e1-8830-c11e071d3306
+  x: 63.932637022486915
+  y: 73.85906067399353
+  z: -110.05358533172098
+  yaw: -140.72509765625
+  pitch: 57.60102462768555
+nickname: §2Zennsworld
+lastlocation:
+  world: 2d2b6e5e-bde8-44e1-8830-c11e071d3306
+  x: 64.18469752441574
+  y: 53.0
+  z: -100.9143642359216
+  yaw: -179.3835906982422
+  pitch: 17.850662231445312
